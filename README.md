@@ -1,6 +1,6 @@
 # Hi there 👋  I'm _naerumii_
 
-🌱 It's ***[my portfolio](https://github.com/nicesugi/portfolio)*** </br>
+🌱 It's ***[my portfolio](https://github.com/Naerumii)*** </br>
 📫 How to reach me : dpskfl04@nave.com</p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
